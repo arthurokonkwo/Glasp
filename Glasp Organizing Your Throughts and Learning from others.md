@@ -10,8 +10,6 @@ In this guide, you will learn everything you need to know about Glasp: what it i
 
 ## Table of Contents
 
-- [Glasp: The Ultimate Guide to Highlighting and Learning from the Web](#glasp-the-ultimate-guide-to-highlighting-and-learning-from-the-web)
-  - [Table of Contents](#table-of-contents)
   - [What is Glasp?](#what-is-glasp)
   - [Why use Glasp?](#why-use-glasp)
   - [How Glasp works?](#how-glasp-works)
@@ -97,7 +95,8 @@ With Glasp, you can easily highlight text, add notes, tag and link your highligh
 By leveraging the features and functionalities of Glasp, you can streamline your reading and note-taking process, create organized and searchable collections of curated content, collaborate with others, and enhance your overall productivity and knowledge management. Give Glasp a try and unlock the full potential of your online reading and learning experience.
 
 **Resources**
-Glasp homepage - [Glasp](https://glasp.co/)
-Glasp blog - [blog](https://blog.glasp.co/)
-Glasp tutorial - [tutorial](https://blog.glasp.co/tag/tutorial/)
-Glasp AI - [AI Summary](https://glasp.co/ai-summary)
+
+- Glasp homepage - [Glasp](https://glasp.co/)
+- Glasp blog - [blog](https://blog.glasp.co/)
+- Glasp tutorial - [tutorial](https://blog.glasp.co/tag/tutorial/)
+- Glasp AI - [AI Summary](https://glasp.co/ai-summary)
