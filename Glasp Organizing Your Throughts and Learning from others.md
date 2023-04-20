@@ -2,7 +2,7 @@
 
 Have you ever wondered how to make the most of your online reading and learning?\
 Have you ever read an article online and wanted to save some important quotes or insights for later?\
-Have you ever wished you could easily share your highlights and notes with others who share your interests?\
+Have you ever wished you could easily share your highlights and notes with others who share your interests?
 
 If you answered yes to any of these questions, then you need Glasp. Glasp is a social web highlighter that lets you highlight and annotate web pages, YouTube videos, and PDF files, and discover more content from like-minded people. Glasp is a tool for writers, avid readers, thinkers, and learners who want to capture, organize, and share their knowledge.
 
@@ -24,7 +24,7 @@ In this guide, you will learn everything you need to know about Glasp: what it i
 
 Glasp is a free Chrome extension that lets you quickly capture online content with coloured highlighting options, which are then automatically curated to your Glasp homepage. These highlights can then be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack. You can see all the highlights and notes in the sidebar on the web, and clicking each highlight takes you to the highlighted place in the web page. Also, you can tag the web page and see what other people highlighted in the website from the sidebar.
 
-Glasp is more than just a highlighter tool. ==It is also a social network where knowledge is the content==. You can follow your friends or like-minded people on Glasp and see their highlights and notes on your feed. You can also explore topics that interest you and find new content from other curators. By using Glasp, you can deepen your knowledge and understanding of various subjects, as well as connect with others who share your passion for learning.
+Glasp is more than just a highlighter tool. <mark>It is also a social network where knowledge is the content.</mark> You can follow your friends or like-minded people on Glasp and see their highlights and notes on your feed. You can also explore topics that interest you and find new content from other curators. By using Glasp, you can deepen your knowledge and understanding of various subjects, as well as connect with others who share your passion for learning.
 
 ## Why use Glasp?
 
